@@ -1,6 +1,6 @@
 # Trabalho 3 
 
-**Atenção** 
+**Atenção**: 
 Importante ressaltar que o trabalho que será entregue no T3 é o mesmo do T5. 
 Como adiantamos o T5, e os casos de teste funcionam no T3 e T4, utilizaremos o mesmo nesses trabalhos.
 Por conta disso, verá implementações referentes ao T4 e T5 nas linhas de código, como também nas classes e funções.
